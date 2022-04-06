@@ -1,0 +1,4 @@
+This command annotates each line within the given file with information from
+the commit which introduced that change. This command can also optionally
+annotate from a given revision.
+just checked to test
